@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for the more easy discharging of sheriffs upon their accounts and from being justices of the peace.</title>
+            <title>Public General Acts. 1695. 7 Wil.III.c.13.</title>
+            <author>Ireland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45985</idno>
+            <idno type="STC">Wing I318</idno>
+            <idno type="STC">ESTC R216038</idno>
+            <idno type="EEBO-CITATION">99827791</idno>
+            <idno type="PROQUEST">99827791</idno>
+            <idno type="VID">32214</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45985)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32214)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1852:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for the more easy discharging of sheriffs upon their accounts and from being justices of the peace.</title>
+                  <title>Public General Acts. 1695. 7 Wil.III.c.13.</title>
+                  <author>Ireland.</author>
+               </titleStmt>
+               <extent>5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Andrew Crook, printer to the Kings Most Excellent Majesty, on Ormonde-Key,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Enacted: Public General Acts, 1695. 7 Wil.III.c.13.</note>
+                  <note>Running title reads: Anno regni septimo Gulielmi Tertii.</note>
+                  <note>Reproduction of the original in the National Library of Ireland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sheriffs --  Law and legislation --  Ireland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32214:1"/>
+            <!-- PDF PAGE 22 -->
+            <pb facs="tcp:32214:1"/>
+            <!-- PDF PAGE 22 -->
+            <p>AN ACT For the more Eaſy Diſcharging of Sheriffs upon their Accounts; And from being Juſtices of the Peace.</p>
+            <figure>
+               <figDesc>W R
+HONI SOIT QVI MAL Y PENSE
+IE MEIN TIENDRAI</figDesc>
+            </figure>
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>BLIN,</hi> Printed by <hi>Andrew Crook,</hi> Printer to the Kings Moſt Excellent Majeſty, on <hi>Ormonde-Key,</hi> 1695:</p>
+         </div>
+      </front>
+      <body>
+         <div type="act">
+            <pb facs="tcp:32214:2"/>
+            <!-- PDF PAGE 23 -->
+            <pb n="3" facs="tcp:32214:2"/>
+            <!-- PDF PAGE 23 -->
+            <head>An Act for the more Eaſy Diſcharging of Sheriffs upon their Accounts: And from being Juſtices of the Peace. CHAP. XIII.</head>
+            <p>WHEREAS Divers Sheriffs of Coun<g ref="char:EOLhyphen"/>ties within this Kingdom of <hi>IRE<g ref="char:EOLhyphen"/>LAND,</hi> have beén often Troubled and Vexed long time after they have Reſpectively paſſed their Accounts, and obtained their <hi>Quietus eſt;</hi> and Charged a-new with Arrearages, Debts, and Sums of Money pretended to have beén by them Levied or Re<g ref="char:EOLhyphen"/>ceived, and not by them formerly Accounted for, to the great Diſcouragement of others to take upon them the ſaid Office. His Moſt Excellent Majeſty is therefore Graciouſly pleaſed that it may be Enacted.</p>
+            <p>And be it Enacted by the Kings Moſt Ex<g ref="char:EOLhyphen"/>cellent Majeſty, by and with the Advice and Conſent of the Lords Spiritual and Temporal, and Commons in this preſent Parliament Aſ<g ref="char:EOLhyphen"/>ſembled, and by Authority of the ſame, That all and every Sheriff or Sheriffs who already have paſſed their Accounts, and obtained their <hi>Quietus:</hi> And all and every Sheriff or She<g ref="char:EOLhyphen"/>riffs who hereafter ſhall paſs his or their Ac<g ref="char:EOLhyphen"/>counts, and have his or their <hi>Quietus eſt,</hi> that then and from thenceforth the ſaid Sheriff and Sheriffs, his and their Heirs, Executors and Ad<g ref="char:EOLhyphen"/>miniſtrators, Lands, Tenements, Goods and Chattles are, and ſhall be Abſolutely Diſchar<g ref="char:EOLhyphen"/>ged
+<pb n="4" facs="tcp:32214:3"/>
+               <!-- PDF PAGE 24 -->
+of and from all manner of Sum and Sums of Money which he or they ſhall have ſo Levyed or Received, and pretended not to be Accounted for within the ſaid Account whereupon he or they had his or their <hi>Quietus eſt,</hi> unleſs ſuch Sheriff or Sheriffs, their Executors or Adminiſtrators have beén or ſhall be called in Queſtion for ſuch Sum or Sums of Money to be Levyed or Re<g ref="char:EOLhyphen"/>ceived, and not Accounted for within the ſpace of Four Years after the time of ſuch Account paſſed, and <hi>Quietus eſt</hi> obtained.</p>
+            <p>And that Every Officer or Miniſter that ſhall ſend out, or Cauſe to be ſent out, any Writ or Proceſs, or by whoſe Default any Writ or Proceſs ſhall be ſent out, Contrary to the Te<g ref="char:EOLhyphen"/>nour of this Act, ſhall for Every ſuch Offence Forfeit and Pay to the Party Grieved, by ſuch Writ or Proceſs, the Sum of Forty Pounds, with his Coſts and Damages the ſaid Sum of Forty Pounds: And the ſaid Coſts and Da<g ref="char:EOLhyphen"/>mages to be Recovered by Action of Debt, Bill, Plaint or Information, in any of His Majeſties Courts of Record at <hi>Dublin</hi> at the Election of the Plantiffs or Proſecutors, wherein no Privi<g ref="char:EOLhyphen"/>ledge, Protection, Eſſoyn, or Wager of Law ſhall be allowed to the Defendant.</p>
+            <p>And be it further Enacted by the Authority aforeſaid, That every ſuch Offender being threé Times Lawfully Convicted of any ſuch Offence or Offences, Contrary to the True Meaning of this Act, ſhall from and after ſuch their ſaid Con<g ref="char:EOLhyphen"/>viction be utterly Diſabled to hold or Execute by himſelf, his Deputy or Deputies any Office or Imployment in any Court of Iuſtice what<g ref="char:EOLhyphen"/>ſoever.</p>
+            <p>And whereas Divers Perſons being in Com<g ref="char:EOLhyphen"/>miſſion
+<pb n="5" facs="tcp:32214:3"/>
+               <!-- PDF PAGE 24 -->
+of the Peace have beén made Sheriffs or Sub-Sheriffs of the ſame County where they were in ſuch Commiſſion, or being Sheriffs or Sub-Sheriffs, have beén after put into the Commiſ<g ref="char:EOLhyphen"/>ſion of the Peace in the County where they were Sheriff or Sub-Sheriffs; and have Exerciſed both the ſaid Offices at once in the ſame County, which is found to be Inconvenient. For Reme<g ref="char:EOLhyphen"/>dy whereof,</p>
+            <p>Be it Enacted, by the Authority aforeſaid, That no Perſon or Perſons, Having, Vſing or Exerci<g ref="char:EOLhyphen"/>ſing the Office of Sheriff or Sub-Sheriff, of or in any County or Counties, ſhall Vſe or Exerciſe the Office of Iuſtice of the Peace in the ſame County or Counties where he or they ſhall be Sheriff or Sub-Sheriff, during the time that he or they ſhall Vſe or Exerciſe the ſaid Office of Sheriff or Sub-Sheriff: And that all and Every Act and Acts to be Done, from and after the End of this preſent Seſſions of Parliament, as a Iuſtice of the Peace by any ſuch Sheriff or Sub-Sheriff, during the time of his being Sheriff or Sub-Sheriff, ſhall be Void and of none Effect, and ſhall Loſe and Forfeit for Every ſuch Offence the ſum of Twenty Pounds, one Moyety thereof to be to the Vſe of His Majeſty, His Heirs and Succeſſors; the other Moyety to him who ſhall ſue for and Recover the ſame by Action of Debt, Bill, Plaint, or Information, in any of His Majeſties Courts of Record at <hi>Dub<g ref="char:EOLhyphen"/>lin,</hi> wherein no Eſſoyn, Protection, or Wager of Law ſhall be Allowed.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
